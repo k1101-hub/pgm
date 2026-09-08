@@ -100,7 +100,7 @@ typedef struct {
 ## Contributors
 
 - Hamza Mebrouk
-- Rida Essalek
+- "k1101-hub"
 
 ## License
 
